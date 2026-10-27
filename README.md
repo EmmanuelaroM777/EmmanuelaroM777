@@ -20,4 +20,4 @@ Herramientas y plataformas
 Sistemas operativos
 <p> <img src="https://skillicons.dev/icons?i=arch,ubuntu,debian,windows&theme=dark" alt="Sistemas operativos"/> </p>
 📊 Estadísticas
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true" alt="Stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Lenguajes top"/> </p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=EmmanuelaroM777&show_icons=true&theme=dark&hide_border=true" alt="Stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelaroM777&layout=compact&theme=dark&hide_border=true" alt="Lenguajes top"/> </p>
